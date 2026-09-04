@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="RaceDayApi.AppHost/RaceDayApi.AppHost.csproj" />
+  <Project Path="RaceDayApi.Server/RaceDayApi.Server.csproj" />
+</Solution>
