@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RaceDayApi.Data;
-using RaceDayApi.DTOs;
+using RaceDayApi.Server.DTOs;
 using RaceDayApi.Models;
 
 namespace RaceDayApi.Controllers;

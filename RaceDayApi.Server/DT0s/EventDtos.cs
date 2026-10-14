@@ -1,4 +1,4 @@
-﻿namespace RaceDayApi.DTOs;
+﻿namespace RaceDayApi.Server.DTOs;
 
 public record CreateEventDto(string Title, string Description, DateTime EventDate, int VenueId);
 public record UpdateEventDto(string Title, string Description, DateTime EventDate, int VenueId);

@@ -1,10 +1,10 @@
-﻿using System.Security.Claims;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RaceDayApi.Data;
-using RaceDayApi.DTOs;
 using RaceDayApi.Models;
+using RaceDayApi.Server.DTOs;
+using System.Security.Claims;
 
 namespace RaceDayApi.Controllers;
 
